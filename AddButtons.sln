@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddButtons", "AddButtons\AddButtons.csproj", "{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}.Debug|iPhone.Build.0 = Debug|iPhone
+		{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}.Release|iPhone.ActiveCfg = Release|iPhone
+		{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}.Release|iPhone.Build.0 = Release|iPhone
+		{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AddButtons\AddButtons.csproj
+	EndGlobalSection
+EndGlobal

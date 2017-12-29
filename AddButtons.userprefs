@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{037B372A-C392-41F4-B7BC-2B2F4FB9FC91}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddButtons/Info.plist">
+    <Files>
+      <File FileName="AddButtons/AppDelegate.cs" Line="11" Column="6" />
+      <File FileName="AddButtons/AddButtonsViewController.cs" Line="42" Column="29" />
+      <File FileName="AddButtons/AddButtonsViewController.xib" />
+      <File FileName="AddButtons/Main.cs" Line="12" Column="19" />
+      <File FileName="AddButtons/AddButtonsViewController.designer.cs" Line="23" Column="40" />
+      <File FileName="AddButtons/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AddButtons PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.862E782F-CEFA-4078-BC42-52CABEADCCDE" automaticSigning="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="GQEJEHTDM4" TeamId="3UH7BE38T3" />
+  </MonoDevelop.Ide.ItemProperties.AddButtons>
+  <MultiItemStartupConfigurations />
+</Properties>
